@@ -2,7 +2,7 @@
 //  ChatModel.swift
 //  ChatGPTApp
 //
-//  Created by Nandini Kokkala on 2/13/25.
+//  Created by Raju Chinnam on 2/13/25.
 //
 
 import Foundation
